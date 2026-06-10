@@ -1,3 +1,4 @@
+
 # Лабораторна робота №3
 ## Тема
 Git та Linux CLI
@@ -10,3 +11,6 @@ Git та Linux CLI
 
 ## Як запустити
 python main.py
+
+# lab3-computational-methods
+
