@@ -48,3 +48,4 @@ result = newton_method(x0=2.0)
 # Додатковий тест
 print("\nТест з іншим початковим наближенням:")
 result2 = newton_method(x0=3.0)
+print("\nРобота виконана успішно!")
