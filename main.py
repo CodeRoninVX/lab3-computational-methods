@@ -44,3 +44,7 @@ print("=== Метод Ньютона ===")
 print("Рівняння: x^3 - 2x - 5 = 0")
 print()
 result = newton_method(x0=2.0)
+
+# Додатковий тест
+print("\nТест з іншим початковим наближенням:")
+result2 = newton_method(x0=3.0)
